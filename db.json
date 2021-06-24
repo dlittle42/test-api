@@ -1,14 +1,20 @@
-{  "statusCode": "Good",
-    "errors": [],  
-    "tags": {    
-        "tag1-data-solder",     
-        "tag2-data-snap_press",   
-        "tag3-data-kitting",  
-        "tag4-data-injection_molding",   
-        "tag5-data-flash_and_test", 
-        "tag4-data-etching", 
-        "tag4-data-assembly_1", 
-        "tag4-data-assembly_2", 
-        "tag4-data-machining", 
-    }
+{
+	"getTagListing": {
+		"statusCode": "Good",
+		"errors": [],
+		"tags": [
+			"tag1-data-solder",
+			"tag2-data-snap_press",
+			"tag3-data-kitting",
+			"tag4-data-injection_molding",
+			"tag5-data-flash_and_test",
+			"tag4-data-etching",
+			"tag4-data-assembly_1",
+			"tag4-data-assembly_2",
+			"tag4-data-machining"
+		]
+	},
+	"profile": {
+		"name": "dlittle42"
+	}
 }
